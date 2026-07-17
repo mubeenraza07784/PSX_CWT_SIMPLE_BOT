@@ -490,3 +490,4 @@ The visible workflow has been reduced to five mandatory workspaces:
 A sixth supporting page, **Data & Settings**, is retained only for PDF/pattern knowledge uploads, Sarmaaya/fundamental imports, and image-based fundamental data. The underlying chart patterns, candlestick patterns, indicators, divergence checks, risk rules, fundamentals, and uploaded knowledge engines have not been removed.
 "# PSX_CWT_SIMPLE_BOT" 
 "# PSX_CWT_SIMPLE_BOT" 
+"# PSX_CWT_CHART_SIMPLE_BOT" 
